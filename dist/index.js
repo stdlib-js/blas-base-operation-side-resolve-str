@@ -1,25 +1,5 @@
+"use strict";var n=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var t=n(function(m,u){
+var s=require('@stdlib/blas-base-operation-side-enum2str/dist'),i=require('@stdlib/blas-base-operation-side-str2enum/dist');function l(e){var r=typeof e;return r==="string"?i(e)===null?null:e:r==="number"?s(e):null}u.exports=l
+});var v=t();module.exports=v;
 /** @license Apache-2.0 */
-
-'use strict';
-
-/**
-* Return the operation side string associated with a supported BLAS operation side value.
-*
-* @module @stdlib/blas-base-operation-side-resolve-str
-*
-* @example
-* var str2enum = require( '@stdlib/blas-base-operation-side-str2enum' );
-* var resolve = require( '@stdlib/blas-base-operation-side-resolve-str' );
-*
-* var v = resolve( str2enum( 'left' ) );
-* // returns 'left'
-*/
-
-// MODULES //
-
-var main = require( './main.js' );
-
-
-// EXPORTS //
-
-module.exports = main;
+//# sourceMappingURL=index.js.map

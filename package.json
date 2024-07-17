@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-operation-side-resolve-str",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the operation side string associated with a supported BLAS operation side value.",
   "license": "Apache-2.0",
   "author": {
@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/blas-base-operation-side-enum2str": "github:stdlib-js/blas-base-operation-side-enum2str#main",
-    "@stdlib/blas-base-operation-side-str2enum": "github:stdlib-js/blas-base-operation-side-str2enum#main"
+    "@stdlib/blas-base-operation-side-str2enum": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.1",
