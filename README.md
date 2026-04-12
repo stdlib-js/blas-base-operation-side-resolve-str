@@ -164,11 +164,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
@@ -214,8 +209,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/blas-base-operation-side-resolve-str/tree/esm
 [esm-readme]: https://github.com/stdlib-js/blas-base-operation-side-resolve-str/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/blas-base-operation-side-resolve-str/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/blas-base-operation-side-resolve-str/main/LICENSE
 
 </section>
 
